@@ -1,0 +1,13 @@
+@import "./component.css";
+@import "./demo.css";
+@import "./normalize.css";
+@import "./parallax.css";
+@import "./swiper-bundle.min.css";
+@import "./tooltip-classic.css";
+
+:root{
+    --verde-oscuro: #078930;
+    --azul-oscuro:#0071BC;
+    --azul-claro:#85BFDC;
+}
+
